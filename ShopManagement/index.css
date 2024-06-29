@@ -1,0 +1,55 @@
+:root {
+  --red: #b80c09;
+  --background: #0b4f6c;
+  --blue: #01baef;
+  --black: #040f16;
+  --white: #ffffff;
+}
+*{
+	padding: 0;
+	border: 0;
+}
+body{
+	background-color: #8BC34A;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	min-height: 100vh;
+}
+.container{
+	height: 350px;
+	width: 450px;
+	background-color: #5eb12f;
+	padding: 21px;
+	box-shadow: 10px 10px 10px 0px #aa421e;
+	border-radius: 20px;
+}
+.container-2{
+	height: 200px;
+	width: 400px;
+}
+.titleh{
+color: white;
+
+}
+.form-label{
+	color: white;
+}
+a{
+	text-decoration: none; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
